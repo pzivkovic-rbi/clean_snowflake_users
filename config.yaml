@@ -1,0 +1,16 @@
+s3:
+  bucket: rbi-data-workday-exports
+  key: org-report.csv
+
+files:
+  users_tf: C:\Users\rbipz002\Documents\GitHub\rbi-snowflake\.snowflake\modules\account\users.tf
+  users_sql: C:\Users\rbipz002\Documents\GitHub\rbi-snowflake\.snowflake\modules\snowflake_cost\sql\dim\users.sql
+  grants_tf: C:\Users\rbipz002\Documents\GitHub\rbi-snowflake\.snowflake\modules\account\grants.tf
+  masking_policies_tf: C:\Users\rbipz002\Documents\GitHub\rbi-snowflake\.snowflake\modules\account\masking_policies.tf
+
+exclude_users:
+  - keboola_bk
+  - keboola_fhs
+  - keboola_plk
+  - keboola_th
+  # Add more machine users as needed

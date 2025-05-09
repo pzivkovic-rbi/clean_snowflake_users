@@ -1,0 +1,5 @@
+# Edit this file to remove any users you do NOT want to delete.
+# Only lines not starting with '#' will be processed.
+mdesouza  # MDESOUZA@RBI.COM
+lmansilla  # LMANSILLA@RBI.COM
+rhuber  # RHUBER@RBI.COM
