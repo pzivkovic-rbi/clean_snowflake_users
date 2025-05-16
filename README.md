@@ -35,7 +35,7 @@ Edit `config.yaml` to specify:
 
 - S3 bucket/key for the employee CSV
 - Paths to the relevant repo files
-- List of excluded (machine) users
+- List of excluded machine and email users
 
 Example:
 ```yaml

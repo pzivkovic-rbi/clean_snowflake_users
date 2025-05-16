@@ -13,4 +13,14 @@ exclude_users:
   - keboola_fhs
   - keboola_plk
   - keboola_th
+  - bk_missing_items_reader
+  - bk_strategy
+  - fzconnect
+  - streamlit_creator
+  - amplitude_bk
   # Add more machine users as needed
+
+exclude_emails:
+  - PPATEL@RBI.COM
+  - LKUMAR1@RBI.COM
+  # Add more user emails to exclude from removal here
